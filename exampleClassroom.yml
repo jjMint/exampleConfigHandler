@@ -1,0 +1,12 @@
+version: 1.0
+
+classroomA:
+  students: ["Nathan", "Charles", "Kayla", "Kurt", "Ben"]
+  chairAmount: 5
+  deskAmount: 5
+  teacher: "Mrs Dale"
+classroomB:
+  students: ["Tom", "Dale", "Sarah", "Salin", "Tim"]
+  chairAmount: 5
+  deskAmount: 5
+  teacher: "Mrs Don"
